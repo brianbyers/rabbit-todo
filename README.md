@@ -1,5 +1,7 @@
 # rabbit-todo
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6f6a359b-b987-4081-a01f-5a8dee73f031.svg?orgId=521549019486)](https://app.soluble.cloud/repos/details/github.com/brianbyers/rabbit-todo?orgId=521549019486)  
+
 SEE THE POST FOR DETAILS: [http://rabbitstack.github.io/spring-mvc-angular-hasta-la-vista-jsp/](http://rabbitstack.github.io/spring-mvc-angular-hasta-la-vista-jsp)
 
 A simple collaborative real time application with Angular and Spring MVC. The purpose of this application is to showcase the integration between Angular / Spring MVC using MongoDB as backing store and websockets for the interactivity.
